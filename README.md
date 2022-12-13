@@ -1,2 +1,1 @@
-# kcpjs.github.io
-kcp-js-min
+# kcp static javascript api
