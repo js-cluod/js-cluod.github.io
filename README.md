@@ -1,1 +1,1 @@
-# kcp static javascript api
+# kcp javascript static api
